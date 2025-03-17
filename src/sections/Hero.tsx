@@ -4,6 +4,7 @@ import cogImage from "@/assets/cog.png";
 import cylinderImage from "@/assets/cylinder.png";
 import noodleImage from "@/assets/noodle.png";
 import Image from "next/image";
+
 import {
   motion,
   useScroll,
